@@ -1,0 +1,21 @@
+# You can specialize this file for each language.
+# For example, for French create a messages.fr file
+#
+nomCli=Nom
+prenomCli=Prenom
+numAdr=Numero rue
+villeAdr=Ville
+cpAdr=Code postal
+nomAdr=Rue
+paysAdr=Pays
+telCli=Telephone
+emailCli=Email
+modelProd=Model
+prixProd=Prix
+marqueProd=Marque
+nomMarque=Marque
+marque=Marque
+dimensionProd=Dimension
+capaciteProd=Capacite
+osProd=Systeme d'exploitation
+image_prod=Image
